@@ -1,21 +1,23 @@
 # demo01
+## 下载项目
+git clone git@github.com:yzxianjs/mobile.git
 
-## Project setup
+## 项目依赖安装
 ```
 yarn install
 ```
 
-### Compiles and hot-reloads for development
+### 编译运行项目
 ```
 yarn run serve
 ```
 
-### Compiles and minifies for production
+### 项目打包
 ```
 yarn run build
 ```
 
-### Run your tests
+### 测试
 ```
 yarn run test
 ```
@@ -25,5 +27,5 @@ yarn run test
 yarn run lint
 ```
 
-### Customize configuration
+### 配置说明
 See [Configuration Reference](https://cli.vuejs.org/config/).
